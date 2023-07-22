@@ -1,0 +1,93 @@
+.homeHeader {
+    background-image: url("https://www.todofondos.net/wp-content/uploads/112-fondos-de-pantalla-de-super-mario-bros.-hd-imagenes-de-fondo-fondo-de-pantalla.-wallpaper-2k-de-mario-bros.jpg");
+            background-position:center;
+            background-repeat:no-repeat;
+            background-size:cover;
+            background-attachment: fixed;
+            
+  }
+
+
+  .LetraCards{
+    color:rgb(255, 0, 0);
+    background-color: rgb(238, 255, 50);
+    width: 50%;
+    margin-left: -20%;
+    border-radius: 15px
+   }
+
+   .LetraCardss{
+    color:rgb(217, 255, 0);
+    background-color: rgb(253, 0, 0);
+    width: 50%;
+    margin-left: -20%;
+    border-radius: 15px
+   }
+
+.imgCss{
+  display: block;
+  border-radius: 50px
+}
+
+.card{
+    width: 100%;
+    border: radius 100px;
+    background-color:rgb(33, 3, 114);
+    display: inline-flex;
+    margin: 10px;
+    box-shadow: rgba(0,0,0, 0.295) 0px 0px;
+    border-radius: 15px
+}
+.card:hover {
+  background-color: #0011ffc9;
+  color: beige;
+}
+
+
+.cardLogo{
+    padding: 10px;
+    display: block;
+  width: 170%;
+  margin-left: -50%;
+  margin-right: 100%;
+}
+
+.cardContent{
+    color: white
+    
+}
+
+.listItem:hover {
+  background-color: #262623c9;
+  color: beige;
+}
+
+.botones {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.botones:hover {
+  background-color: #ba0000;
+  color: white;
+}
+
+.searchB{
+height: 32px;
+border: 1px solid #feacae;
+background-color: #fff;
+overflow: hidden;
+font-size: 14px;
+color: #04fa41;
+border-width: 0;
+background-color: rgb(186, 255, 180);}

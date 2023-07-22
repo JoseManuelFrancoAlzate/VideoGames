@@ -1,0 +1,42 @@
+.styledButton{
+    background-color: #54df04;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #ffffff;;
+   text-transform: uppercase;
+    font: normal 400 16px/16px Open sans;
+    min-height: 35px;
+    min-width: 100px;
+    padding: 10px 25px;
+    transition: background-color 0.25s ease-out;
+
+}
+
+.styledLetra{
+    font-size: 1.4rem;
+    color: rgb(255, 251, 0);
+    font-family: fantasy;
+    font-size: 33px;
+}
+
+.App{
+    background-image: url("https://w.forfun.com/fetch/3e/3e7c7cd546c405d506d29f65941dc040.jpeg");
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover; 
+  }
+
+  .letraUser{
+    font-size: 1.4rem;
+    color: rgb(113, 4, 255);
+    font-family: fantasy;
+    font-size: 20px;
+  }
+  
+  .letraErr{
+    font-size: 1.4rem;
+    color: rgb(255, 4, 4);
+    font-family: fantasy;
+    font-size: 15px;
+  }
+  
